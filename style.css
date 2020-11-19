@@ -1,0 +1,24 @@
+   .admintitle
+{
+ background-color:#9F9C99;
+    color:#fff;
+    height:240px;
+    line-height: 140px;
+    font-size: 25px;
+}
+        .dashboard
+{   
+    background-color:#9E1030;
+    height:203px;
+    line-height: 60px;
+    margin-bottom: 50px;
+    
+}
+        body{
+            background-color: #DD4132;
+        }
+        .t1{
+            
+            font-size: 25px;
+        }
+
